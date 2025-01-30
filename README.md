@@ -1,13 +1,13 @@
 This project included:
 
-Finding a data set of interest.
+  *Finding a data set of interest.
 
-Explaining the dataset.
+  *Explaining the dataset.
 
-Initial data exploration.
+  *Initial data exploration.
 
-Data cleaning.
+  *Data cleaning.
 
-Creating appropriate deep learning algorithms.
+  *Creating appropriate deep learning algorithms.
 
-Conclusions on findings.
+  *Conclusions on findings.
